@@ -1,4 +1,4 @@
-# 🗣️ Spill - Social Connection App
+# 🗣️ Spill by PEAK - Social Connection App
 
 **Spill** is a modern Flutter social networking app that connects people through rich profiles, real-time chat, and intuitive search features. Built with a focus on authentic connections and user expression.
 
@@ -71,8 +71,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/spill-flutter-app.git
-   cd spill-flutter-app
+   git clone https://github.com/badbrownboy/spill-by-peak.git
+   cd spill-by-peak
    ```
 
 2. **Install dependencies**
